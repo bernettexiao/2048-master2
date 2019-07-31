@@ -373,12 +373,9 @@ hr {
     background-image: url("https://inhabitat.com/wp-content/blogs.dir/1/files/2012/04/subtropical-forest-india-120x120.jpg");
     }
   .tile.tile-super .tile-inner {
-    color: #f9f6f2;
-    background: #3c3a32;
-    font-size: 30px; }
-    @media screen and (max-width: 520px) {
-      .tile.tile-super .tile-inner {
-        font-size: 10px; } }
+     font-size: 0px;
+     background-image: url("https://i2.wp.com/www.edouardstenger.com/wp-content/uploads/2013/05/Deforestation-of-the-Amazon-increases.jpg?resize=128%2C128"); 
+     }
 
 @-webkit-keyframes appear {
   0% {
